@@ -1,0 +1,76 @@
+.btn-green {
+  text-decoration: none;
+  padding: 12px 32px;
+  background-color: #673235;
+  border-radius: 8px;
+  color: #F4F0EC
+}
+
+.btn-green:hover {
+  background-color: #F4F0EC;
+color: #673235
+}
+
+.btn-2 {
+  text-decoration: none;
+  padding: 12px 32px;
+  background-color: #F4F0EC;
+  border-radius: 8px;
+  color: #673235;
+}
+
+.btn-2:hover {
+  background-color: #673235;
+color: #F4F0EC
+}
+.btn-1 {
+  text-decoration: none;
+  padding: 12px 32px;
+  border-radius: 8px;
+  color: #F4F0EC ;
+  text-align: center
+}
+
+.btn-1:hover {
+color: #988A71
+}
+
+.btn-3 {
+  text-decoration: none;
+  padding: 12px 24px;
+  background-color: #F4F0EC;
+  border-radius: 5px;
+  color: #673235;
+}
+
+.btn-3:hover {
+  background-color: #673235;
+color: #F4F0EC
+
+}
+
+.btn-4 {
+  text-decoration: none;
+  padding: 12px 32px;
+  border-radius: 8px;
+  color: white ;
+  text-align: center
+}
+
+.btn-4:hover {
+color: #673235;
+}
+
+.btn-5 {
+  text-decoration: none;
+  padding: 12px 32px;
+  border-radius: 8px;
+  color:#988A71 ;
+  text-align: center
+}
+
+.btn-5:hover {
+color: #673235;
+
+}
+

@@ -1,0 +1,27 @@
+.card img {
+  border-radius: 4px;
+  text-align: center;
+}
+
+.card {
+  padding: 12px;
+  margin: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 8px;
+  flex-basis: 280px;
+  flex-grow: 1;
+}
+
+.card h2 {
+  flex-grow: 1;
+  margin-left: 16px;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.card a {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+}

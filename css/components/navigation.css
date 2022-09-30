@@ -1,0 +1,9 @@
+.nav-1 {
+    background-color: #F4F0EC } 
+.nav-2 {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #F4F0EC;
+    position: sticky;
+    top: 0px;
+} 

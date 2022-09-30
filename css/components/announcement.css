@@ -1,0 +1,19 @@
+.announcement {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  text-align: center;
+  width: 100%;
+  background: #AD6C70;
+  color: white;
+  font-family: monserrat, sans;
+  margin: 0px;
+  padding: 0;
+  vertical-align: middle;
+  font-size: 0.8em;
+}
+
+.text-announcement {
+  margin: 0;
+}

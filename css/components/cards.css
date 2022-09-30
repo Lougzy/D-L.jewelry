@@ -1,0 +1,54 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cards h2 {
+  flex-grow: 1;
+  margin-left: 16px;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.cards a {
+  font-weight: 400;
+}
+
+.cards-1{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cards-1 h2 {
+  flex-grow: 1;
+  margin-left: 16px;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.cards-1 a {
+  font-weight: 400;
+}
+
+.cards-2{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 12px 50px;
+}
+
+.cards-2 h2 {
+  flex-grow: 1;
+  margin-left: 16px;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.cards-2 a {
+  font-weight: 400;
+}
+
+.text-center-carousel {
+	margin-bottom: 20%;
+}
+
+
